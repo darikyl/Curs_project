@@ -2,7 +2,7 @@
 ## TestTv – Simulation of TV Inspection Before Packaging
 
 TestTv is a Java application that simulates the process of inspecting televisions before packaging on a production line. 
-The project utilizes multithreading and thread multiplexing to model parallel processing of TVs across different inspection stages.
+The project utilizes multithreading to model parallel processing of TVs across different inspection stages.
 
 #### Include
 
